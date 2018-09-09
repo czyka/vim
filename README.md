@@ -27,8 +27,8 @@ gk		move down one displayed line
 gj		move up one displayed line
 
 # Insertion
-#   To exit from insert mode use Esc or Ctrl-C
-#   Enter insertion mode and:
+# To exit from insert mode use Esc or Ctrl-C
+# Enter insertion mode and:
 
 a               append after the cursor
 A               append at the end of the line
@@ -46,7 +46,7 @@ yy              yank (copy) a line
 y{motion}       yank text that {motion} moves over
 p               paste after cursor
 P               paste before cursor
-<Del> or x      delete a character
+Del or x      delete a character
 dd              delete a line
 d{motion}       delete text that {motion} moves over
 
